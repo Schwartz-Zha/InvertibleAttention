@@ -1,0 +1,16 @@
+Agreement:
+1. The CelebA dataset is available for non-commercial research purposes only.
+2. All images of the CelebA dataset are obtained from the Internet which are not property of MMLAB, The Chinese University of Hong Kong. The MMLAB is not responsible for the content nor the meaning of these images.
+3. You agree not to reproduce, duplicate, copy, sell, trade, resell or exploit for any commercial purposes, any portion of the images and any portion of derived data.
+4. You agree not to further copy, publish or distribute any portion of the CelebA dataset. Except, for internal use at a single site within the same organization it is allowed to make copies of the dataset.
+5. The MMLAB reserves the right to terminate your access to the CelebA dataset at any time.
+6. The face identities are released upon request for research purposes only. Please contact us for details.
+
+
+@inproceedings{liu2015faceattributes,
+ title = {Deep Learning Face Attributes in the Wild},
+ author = {Liu, Ziwei and Luo, Ping and Wang, Xiaogang and Tang, Xiaoou},
+ booktitle = {Proceedings of International Conference on Computer Vision (ICCV)},
+ month = {December},
+ year = {2015} 
+}
